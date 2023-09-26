@@ -1,0 +1,27 @@
+body{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+  color: #faa200
+  background-color: #ffffff;
+}
+.my-class {
+  color: orange;
+  background-color:bisque;
+}
+
+.my-class2 {color:blue;
+background-color:bisque;
+}
+img {
+  float:left;
+  margin: 20px;
+  padding: 10px;
+}
+.my-class3 {color: purple;
+background-color:bisque;}
+.my-class4 {color:blue;
+background-color:bisque;}
+p{font-size:xx-large;}
+
+body {background-color:bisque;}
